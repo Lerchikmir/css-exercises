@@ -1,3 +1,16 @@
 .alert-text { 
 background-color: #ffcccb;
 font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+#hueta {
+color:#5a5af0;
+font-size: 36px;
+}
+#gop {
+font-size: 30px;
+}
+#top {
+background-color: aquamarine;
+font-size: 24px;
+font-weight: bold;
+}
