@@ -1,0 +1,7 @@
+.container p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+/* там добавляется р к контейнеру тк в нем могут быть не только р, но и дивы и тд и тп. но в данном случае пуфик */
